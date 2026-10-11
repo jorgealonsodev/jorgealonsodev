@@ -12,7 +12,7 @@ What I care about:
 - **Automation** — deployments, migrations and ETL that are repeatable and reversible.
 - **AI-assisted development** — tooling that makes coding agents observable and safe to use.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorgealonsoalfonso-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgealonsoalfonso/)
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/jorgealonsoalfonso/)
 
 ---
 
