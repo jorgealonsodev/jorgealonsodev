@@ -1,22 +1,67 @@
-# Jorge Alonso Alfonso
+<h1 align="center">Jorge Alonso Alfonso</h1>
 
-Developer and sysadmin at [EnfoquesTIC](https://enfoquestic.com), based in Galicia, Spain.
+<p align="center">
+  Developer and sysadmin at <a href="https://enfoquestic.com">EnfoquesTIC</a> · Galicia, Spain
+</p>
 
-At work I build whatever a project needs, which usually means more than one layer. On an IoT
-platform for wearables I've written the Go services, the Next.js portal, the Wear OS app that
-handles calls and sends health telemetry over MQTT, and the ESP32 firmware and Flutter app that
-talk to each other over BLE. I've also built a Python service that unfolds sheet-metal parts from
-STEP files with OpenCascade and the DIN 6935 K factor, WordPress plugins, and MCP servers that let
-AI agents query SAP Business One on HANA, SQL Server and MySQL, some of them called from n8n
-workflows.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorgealonsoalfonso/"><img src="assets/linkedin-badge.svg" alt="LinkedIn"></a>
+</p>
 
-I also run the Linux side: Plesk hosting servers, DNS and mail (SPF, DMARC, relay through AWS SES),
-Docker and Portainer, monitoring with Prometheus and Grafana, identity with Zitadel, and security
-work that ranges from server audits to cleaning up compromised WordPress and PrestaShop sites. If I
-have to do something by hand twice, I usually end up writing a tool for it, and most of the public
-code below started that way.
+<p align="center">
+  <img src="assets/stack-languages.svg" alt="Go, TypeScript, Kotlin, Python, Rust, Dart, C++, PHP, Bash"><br>
+  <img src="assets/stack-platforms.svg" alt="Next.js, WordPress, Flutter, Android, Arduino, Linux, Docker, Nginx"><br>
+  <img src="assets/stack-ops.svg" alt="AWS, Terraform, Prometheus, Grafana, GitHub Actions, PostgreSQL, MySQL">
+</p>
 
-[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/jorgealonsoalfonso/)
+At work I build whatever a project needs, which usually means more than one layer. If I have to do
+something by hand twice, I usually end up writing a tool for it, and most of the public code below
+started that way.
+
+## What I work on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### IoT and mobile
+
+- Go services and Next.js portal for an IoT platform for wearables
+- Wear OS app that handles calls and sends health telemetry over MQTT
+- ESP32 firmware and a Flutter app that talk to each other over BLE
+
+</td>
+<td width="50%" valign="top">
+
+### Backend and AI
+
+- MCP servers that let AI agents query SAP Business One on HANA, SQL Server and MySQL
+- AI agent workflows in n8n
+- Python service that unfolds sheet-metal parts from STEP files (OpenCascade, DIN 6935 K factor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Linux and hosting
+
+- Plesk hosting servers, Nginx and Apache
+- DNS and mail: SPF, DMARC, relay through AWS SES
+- Docker and Portainer, Prometheus and Grafana, Zitadel
+
+</td>
+<td width="50%" valign="top">
+
+### Security
+
+- Server audits and pentests with Strix
+- Cleanup of compromised WordPress and PrestaShop sites
+- Linux hardening against CIS Benchmarks with [Vallumix](https://github.com/jorgealonsodev/vallumix)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,10 +90,17 @@ code below started that way.
 
 ---
 
-## Toolbox
+## Also in the toolbox
 
 | Area | Tools |
 |---|---|
+| Mobile and IoT | Wear OS, ESP32, BLE, NFC, MQTT, NATS |
+| Data | TimescaleDB, SQL Server, SAP HANA (SAP Business One) |
+| Platforms | Plesk, Portainer, Apache, Zitadel, n8n, PrestaShop, Loki |
+| AI tooling | MCP servers, Claude Code, OpenCode |
+| Practices | Incident response, spec-first and test-first development |
+
+---|---|
 | Languages | TypeScript, Go, Kotlin, Python, Rust, Dart, C++, PHP, Bash |
 | Web | Next.js, WordPress, PrestaShop |
 | Mobile and IoT | Flutter, Wear OS, ESP32, BLE, NFC, MQTT, NATS |
