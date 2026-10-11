@@ -100,16 +100,6 @@ started that way.
 | AI tooling | MCP servers, Claude Code, OpenCode |
 | Practices | Incident response, spec-first and test-first development |
 
----|---|
-| Languages | TypeScript, Go, Kotlin, Python, Rust, Dart, C++, PHP, Bash |
-| Web | Next.js, WordPress, PrestaShop |
-| Mobile and IoT | Flutter, Wear OS, ESP32, BLE, NFC, MQTT, NATS |
-| Infrastructure | Linux, Docker, Portainer, Plesk, Nginx, Apache, DNS and mail, AWS, Terraform, Zitadel, n8n |
-| Observability | Prometheus, Grafana, Loki |
-| Data | PostgreSQL and TimescaleDB, MySQL, SQL Server, SAP HANA (SAP Business One) |
-| AI tooling | MCP servers, Claude Code, OpenCode |
-| Practices | Security audits and incident response, pentesting with Strix, CI with GitHub Actions, spec-first and test-first development |
-
 ---
 
 <sub>If you want to talk about Linux, IoT or AI agents, you can reach me on [LinkedIn](https://www.linkedin.com/in/jorgealonsoalfonso/).</sub>
