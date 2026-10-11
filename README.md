@@ -1,4 +1,4 @@
-<h1 align="center">Jorge Alonso Alfonso</h1>
+<h1 align="center">Hi, I'm Jorge 👋</h1>
 
 <p align="center">
   Developer and sysadmin at <a href="https://enfoquestic.com">EnfoquesTIC</a> · Galicia, Spain
