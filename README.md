@@ -97,7 +97,7 @@ started that way.
 | Mobile and IoT | Wear OS, ESP32, BLE, NFC, MQTT, NATS |
 | Data | TimescaleDB, SQL Server, SAP HANA (SAP Business One) |
 | Platforms | Plesk, Portainer, Apache, Zitadel, n8n, PrestaShop, Loki |
-| AI tooling | MCP servers, Claude Code, OpenCode |
+| AI tooling | MCP servers, Claude Code, OpenCode, Pi, Gentle Shell |
 | Practices | Incident response, spec-first and test-first development |
 
 ---
